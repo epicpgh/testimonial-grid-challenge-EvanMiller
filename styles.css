@@ -1,0 +1,88 @@
+
+
+div{
+    display:flex;
+    flex-align: space-around;
+    
+}
+img{
+    border-radius: 50%;
+    border: solid 1px
+}
+
+.Daniel {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    flex-align: space-around;
+    background-color: #733FC8;
+    height: 280px;
+    width: 540px;
+    
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+   
+  }
+  .Jonathan{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    flex-align: space-around;
+    background-color: #49556B;
+    height: 280px;
+    width: 250px;
+    
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+
+  }
+  .Jeanette{
+    display: flex;
+    flex-direction: column;
+    flex-align: space-around;
+    background-color: #FFFFFF;
+    height: 280px;
+    width: 250px;
+    
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+  }
+  .Patrick{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    flex-align: space-around;
+    background-color: #18202D;
+    height: 280px;
+    width: 540px;
+    
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+  }
+  .Kira{
+    display: flex;
+    flex-direction: column;
+    flex-align: space-around;
+    background-color: #FFFFFF;
+    height: 590px;
+    width: 250px;
+    
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+
+    
+  }
+    h1{
+    font-size: 15px;
+  }
+h2{
+    font-size: 12px
+    }
+p{
+    font-size:12px;
+}
